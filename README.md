@@ -8,3 +8,6 @@ For runing this sketch you will need two libraries:
 
 The program will acces the camera on your device for the time of animation runnning. Run this file as any other Processing sketch. 
 Make sure to include the data directory.
+
+## Disclaimer
+The code for the ripple effect motion was influenced by open source solutions on OpenProcessing. 
